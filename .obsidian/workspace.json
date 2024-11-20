@@ -1,0 +1,299 @@
+{
+  "main": {
+    "id": "5e8718cb8efd683d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed53d2227c40af91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86a6b6fa4a391235",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 anno/Information Retrieval/Efficient training and inference of ensemble of decision trees forest.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Efficient training and inference of ensemble of decision trees forest"
+            }
+          },
+          {
+            "id": "e3e761209cf13075",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 anno/Information Retrieval/Indice - Information Retrieval.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Indice - Information Retrieval"
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dcbeab15736c7ca4",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7b463a8308829f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81d7bdff2d8930b8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "51a44c5cc1502e17",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "3aae195c6d55475b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "76bab3a7b5200317",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 anno/Basi di dati/Appunti/Normalizzazione di schemi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Normalizzazione di schemi"
+            }
+          },
+          {
+            "id": "2c96efc8a2c372ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 anno/Information Retrieval/Learning to rank.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Learning to rank"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 346.5
+  },
+  "right": {
+    "id": "4fd5ce29ea24c813",
+    "type": "split",
+    "children": [
+      {
+        "id": "776f136ba5cd139d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45cfdd8413932a25",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "4 anno/Information Retrieval/Learning to rank lesson.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Learning to rank lesson"
+            }
+          },
+          {
+            "id": "70d3e7f9def0bbf7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "4 anno/Information Retrieval/Learning to rank lesson.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Learning to rank lesson"
+            }
+          },
+          {
+            "id": "29c87289c55dbb0d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "472a802d611ddd07",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "51aa01cf3ab66f16",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          },
+          {
+            "id": "39c0123bb6d3fbf9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "34e59ba823bfe0d5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2024-11-13.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2024-11-13"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-kanban:Create new board": false,
+      "homework-manager:Open homework": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "86a6b6fa4a391235",
+  "lastOpenFiles": [
+    "4 anno/Information Retrieval/Gradient Boosting Machine.md",
+    "4 anno/Information Retrieval/Efficient training and inference of ensemble of decision trees forest.md",
+    "4 anno/Information Retrieval/Indice - Information Retrieval.md",
+    "4 anno/Information Retrieval/Notes/Ranking models.md",
+    "4 anno/Machine Learning/Notes/Machine learning.md",
+    "Templates/Appunti/Argomento 1.md",
+    "2 anno/Architetture e sistemi operativi/Indice - AESO.md",
+    "2 anno/Architetture e sistemi operativi/Kernel.md",
+    "2 anno/Architetture e sistemi operativi/Concorrenza.md",
+    "2 anno/Statistica/Indice - Statistica.md",
+    "2 anno/Statistica/Esercizi variabili aleatorie.md",
+    "2 anno/Statistica/Scarto quadratico medio - stat. descrittiva.md",
+    "2 anno/Statistica/Varianza - stat. descrittiva.md",
+    "2 anno/Statistica/Esercizio Variabili Aleatorie.md",
+    "2 anno/Statistica/Variabili aleatorie.md",
+    "2 anno/Statistica/Probabilità.md",
+    "2 anno/Statistica/Probabilità condizionata.md",
+    "2 anno/Statistica/PDF da convertire/Prob. cond. 2.pdf",
+    "2 anno/Statistica/PDF da convertire/Prob. cond. 2.pdf.crdownload",
+    "2 anno/Statistica/PDF da convertire/Concetti di probabilità.pdf",
+    "2 anno/Statistica/PDF da convertire/Concetti di probabilità.pdf.crdownload",
+    "2 anno/Statistica/PDF da convertire",
+    "2 anno/Statistica/PDF da convertire/Probabilità condizionata.pdf",
+    "2 anno/Statistica/Probabilità condizionata.pdf.crdownload",
+    "2 anno/Statistica/PDF da convertire/Scarto quadratico medio.pdf",
+    "2 anno/Statistica/Scarto quadratico medio.pdf.crdownload",
+    "2 anno/Statistica/PDF da convertire/varianza.pdf",
+    "2 anno/Statistica/Media.md",
+    "Note generali sparse/Centro di massa.md",
+    "Fisica/Indice - Fisica.md",
+    "2 anno/Statistica/Statistica descrittiva.md",
+    "4 anno/Information Retrieval/Notes/Learning to rank.md",
+    "4 anno/Information Retrieval/Notes/Jaccard coefficient.md",
+    "4 anno/Information Retrieval/Notes/N-grams.md",
+    "4 anno/Information Retrieval/Notes/NDCG.md",
+    "4 anno/Information Retrieval/Notes/Rank-Based Measures - Multiple level of relevance.md",
+    "4 anno/Information Retrieval/Pictures/Pasted image 20241111170320.png",
+    "4 anno/Information Retrieval/Pictures/Pasted image 20241111120523.png",
+    "4 anno/Information Retrieval/Pictures/Pasted image 20241111112149.png",
+    "4 anno/Computational mathematics/Pictures/Pasted image 20241107183003.png",
+    "4 anno/Information Retrieval/Pictures/Pasted image 20241027165822.png",
+    "4 anno/Information Retrieval/Pictures/Pasted image 20241026185323.png",
+    "4 anno/Information Retrieval/Pictures/Pasted image 20241026195002.png",
+    "Pasted image 20241027181436.png",
+    "4 anno/Information Retrieval/Pictures/Pasted image 20241027155623.png",
+    "4 anno/Information Retrieval/Pictures/Pasted image 20241027122553.png",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Pova dataviews/sono la cartella di prova/Untitled.canvas"
+  ]
+}
