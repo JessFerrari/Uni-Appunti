@@ -5,8 +5,6 @@
 
  
 1. [[Agents and environments]]
-	1. [[boh]]
-2. [[Argomento2]]
 
 
 ## Lezioni

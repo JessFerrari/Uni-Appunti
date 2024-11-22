@@ -13,26 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 anno/Information Retrieval/Notes/Gradient Boosting Machine.md",
+                "file": "3 anno/Introduzione all'intelligenza artificiale/Indice - Introduzione all'intelligenza artificiale.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gradient Boosting Machine"
+              "title": "Indice - Introduzione all'intelligenza artificiale"
             }
           },
           {
-            "id": "a77f9654685d5224",
+            "id": "eabdaf541e9d720d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 anno/Information Retrieval/Notes/Efficient training and inference of ensemble of decision trees forest.md",
+                "file": "4 anno/Artficial Intelligence Fundamentals/Indice - AIF.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Efficient training and inference of ensemble of decision trees forest"
+              "title": "Indice - AIF"
             }
           }
         ],
@@ -121,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5,
-    "collapsed": true
+    "width": 346.5
   },
   "right": {
     "id": "4fd5ce29ea24c813",
@@ -247,31 +246,44 @@
   },
   "active": "86a6b6fa4a391235",
   "lastOpenFiles": [
-    "Pasted image 20241121170302.png",
+    "4 anno/Artficial Intelligence Fundamentals/Indice - AIF.md",
+    "4 anno/Artficial Intelligence Fundamentals/Agents and environments.md",
+    "3 anno/Introduzione all'intelligenza artificiale/Indice - Introduzione all'intelligenza artificiale.md",
+    "3 anno/Introduzione all'intelligenza artificiale/Problem solving - agenti razionali.md",
+    "3 anno/Introduzione all'intelligenza artificiale/Agenti - ricerca di una soluzione.md",
+    "3 anno/Introduzione all'intelligenza artificiale/Agenti - algoritmi di ricerca.md",
+    "3 anno/Introduzione all'intelligenza artificiale/Intro Machine Learning.md",
+    "3 anno/Introduzione all'intelligenza artificiale/Concept learning.md",
+    "3 anno/Introduzione all'intelligenza artificiale/Modelli lineari.md",
+    "3 anno/Introduzione all'intelligenza artificiale/Decision trees - ML.md",
+    "3 anno/Introduzione all'intelligenza artificiale/Validation and Theoretical issues.md",
+    "VC-dimension.png",
+    "Pasted image 20241122103039.png",
+    "k-fold.png",
+    "3 anno/Introduzione all'intelligenza artificiale/Pictures/Iper parametro.png",
+    "4 anno/Pasted image 20241121170302.png",
+    "3 anno/Introduzione all'intelligenza artificiale/Pictures/FunzionamentoMLsystem.png",
+    "3 anno/Introduzione all'intelligenza artificiale/Pictures/MLsystem.png",
+    "3 anno/Introduzione all'intelligenza artificiale/Agenti logici.md",
+    "3 anno/Introduzione all'intelligenza artificiale/Pictures/Equivalenze logiche.png",
+    "3 anno/Introduzione all'intelligenza artificiale/Agenti basati su conoscenza.md",
+    "3 anno/Introduzione all'intelligenza artificiale/Pictures",
+    "3 anno/Introduzione all'intelligenza artificiale/Pictures/Agenti-Bassati-Canoscenza.png",
+    "4 anno/Information Retrieval/Notes/Gradient Boosting Machine.md",
     "3 anno/Fisica/Indice - Fisica.md",
     "3 anno/Fisica",
     "4 anno/Information Retrieval/Notes/Gradient boosting forest decision tree.md",
     "4 anno/Information Retrieval/Notes/Efficient training and inference of ensemble of decision trees forest.md",
     "4 anno/Information Retrieval/Indice - Information Retrieval.md",
-    "4 anno/Information Retrieval/Notes/Gradient Boosting Machine.md",
     "4 anno/Information Retrieval/Notes/Pasted image 20241121162108.png",
     "1 anno/Programmazione e algoritmica/Decision trees.md",
     "1 anno/Programmazione e algoritmica/Indice - P&A.md",
-    "4 anno/Information Retrieval/Pictures/Pasted image 20241121155135.png",
     "4 anno/Information Retrieval/Notes/Ranking models.md",
     "4 anno/Machine Learning/Notes/Machine learning.md",
     "Templates/Appunti/Argomento 1.md",
     "2 anno/Architetture e sistemi operativi/Indice - AESO.md",
     "2 anno/Architetture e sistemi operativi/Kernel.md",
     "2 anno/Architetture e sistemi operativi/Concorrenza.md",
-    "2 anno/Statistica/Indice - Statistica.md",
-    "2 anno/Statistica/Esercizi variabili aleatorie.md",
-    "2 anno/Statistica/Scarto quadratico medio - stat. descrittiva.md",
-    "2 anno/Statistica/Varianza - stat. descrittiva.md",
-    "2 anno/Statistica/Esercizio Variabili Aleatorie.md",
-    "2 anno/Statistica/Variabili aleatorie.md",
-    "2 anno/Statistica/Probabilità.md",
-    "2 anno/Statistica/Probabilità condizionata.md",
     "2 anno/Statistica/PDF da convertire/Prob. cond. 2.pdf",
     "2 anno/Statistica/PDF da convertire/Prob. cond. 2.pdf.crdownload",
     "2 anno/Statistica/PDF da convertire/Concetti di probabilità.pdf",
@@ -280,19 +292,6 @@
     "2 anno/Statistica/PDF da convertire/Probabilità condizionata.pdf",
     "2 anno/Statistica/Probabilità condizionata.pdf.crdownload",
     "2 anno/Statistica/PDF da convertire/Scarto quadratico medio.pdf",
-    "2 anno/Statistica/Scarto quadratico medio.pdf.crdownload",
-    "2 anno/Statistica/Media.md",
-    "Note generali sparse/Centro di massa.md",
-    "Fisica/Indice - Fisica.md",
-    "2 anno/Statistica/Statistica descrittiva.md",
-    "4 anno/Information Retrieval/Pictures/Pasted image 20241111170320.png",
-    "4 anno/Information Retrieval/Pictures/Pasted image 20241111120523.png",
-    "4 anno/Information Retrieval/Pictures/Pasted image 20241111112149.png",
-    "4 anno/Computational mathematics/Pictures/Pasted image 20241107183003.png",
-    "4 anno/Information Retrieval/Pictures/Pasted image 20241027165822.png",
-    "4 anno/Information Retrieval/Pictures/Pasted image 20241026185323.png",
-    "4 anno/Information Retrieval/Pictures/Pasted image 20241026195002.png",
-    "Pasted image 20241027181436.png",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Pova dataviews/sono la cartella di prova/Untitled.canvas"
