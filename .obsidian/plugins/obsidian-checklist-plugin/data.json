@@ -1,15 +1,17 @@
 {
-  "todoPageName": "todo\n",
+  "todoPageName": "todo",
   "showChecked": false,
-  "showAllTodos": false,
+  "showAllTodos": true,
   "autoRefresh": true,
   "subGroups": false,
   "groupBy": "page",
-  "sortDirectionItems": "new->old",
-  "sortDirectionGroups": "new->old",
+  "sortDirectionItems": "old->new",
+  "sortDirectionGroups": "old->new",
   "sortDirectionSubGroups": "new->old",
   "includeFiles": "",
-  "lookAndFeel": "classic",
-  "_collapsedSections": [],
+  "lookAndFeel": "compact",
+  "_collapsedSections": [
+    "Others/Untitled 1.md"
+  ],
   "_hiddenTags": []
 }

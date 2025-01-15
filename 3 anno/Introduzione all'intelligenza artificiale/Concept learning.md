@@ -128,7 +128,7 @@ Il Version Space presenta 2 limiti:
 - G, che rappresenta l’ipotesi più generale al suo interno, o meglio, l’insieme delle funzioni massimalmente generali
 - S, che rappresenta l’ipotesi più specifica al suo interno, o meglio, l’insieme delle funzioni massimalmente specifiche
 
-$VS_{H,D}=\{h\in H|(\exist s\in S\ \&\& \ \exist g\in G ):g\geq h\geq s\}$
+$VS_{H,D}=\{h\in H|(\exists s\in S\ \&\& \ \exists g\in G ):g\geq h\geq s\}$
 
 ## ALGORITMO CANDIDATE ELIMINATE
 

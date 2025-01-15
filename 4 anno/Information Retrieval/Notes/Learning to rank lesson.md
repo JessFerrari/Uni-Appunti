@@ -18,7 +18,7 @@ We need to build a representation of doc and query to compute the rank.
 From ML comes solutions for learning a function $f$ to rank.
 
 
-### [[Machine learning]]
+### [[4 anno/Machine Learning/Machine Learning]]
 --> qui ha iniziato a spiegare in modo generale il ML non scrivo
 --> ha fatto pure una discussione sulla terminologia riguardate classificazione (mapping in classes) e regressione (mapping to real number)
 --> ha parlato della fase di training a di test. fa esempi alla lavagna del tipo :
@@ -28,7 +28,7 @@ From ML comes solutions for learning a function $f$ to rank.
 
 ## Learning to Rank (LtR)
 
-Is a different problem from [[Classification]] and [[Regression]].
+Is a different problem from [[4 anno/Machine Learning/Machine Learning#Classification task|classification]] and [[4 anno/Machine Learning/Machine Learning#Regression task|regression]].
 The instance are query and documents. We ant do a representation of our task. So we use features from our instance.
 We want also supervision, that is the risultato aspettato, che nel nostro caso è il rank ossia la rilevanza del documento.
 

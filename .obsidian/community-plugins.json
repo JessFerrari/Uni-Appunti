@@ -5,10 +5,9 @@
   "obsidian-plantuml",
   "obsidian-auto-link-title",
   "obsidian-checklist-plugin",
-  "dataview",
-  "obsidian-kanban",
   "pseudocode-in-obs",
   "omnisearch",
-  "homework-manager",
-  "obsidian-latex-suite"
+  "obsidian-latex-suite",
+  "table-editor-obsidian",
+  "find-unlinked-files"
 ]

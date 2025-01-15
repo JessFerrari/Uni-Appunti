@@ -63,12 +63,26 @@
 	2. [[Ranking metrics]]
 	3. [[Learning objective ranking function]]
 	4. [[Hypothesis classes]]
-	5. [[Gradient Boosting Machine]]
 	6. [[Gradient boosting forest decision tree]]
-11. [[Efficient training and inference of ensemble of decision trees forest]]
-	
+11. [[Decision trees and trees ensembles]]
+	1. [[GBM]]
+	2. [[XGBoost]]
+		1. [[Split finding]]
+	3. [[LightGBM]]
+		1. [[Sampling on gradient - GOSS]]
+		2. [[Exclusive Feature Bunding - EFB]]
+12. [[Language Models]] 
+	1. [[Probabilistic Models]]
+			1. [[Statistical Language Models]]
+	2. [[Neural Models]]
+		1. [[Word2Vec]]
+		2. [[FastText and Doc2Vec]]
+	3. [[Embeddings]]
+	4. [[self attention]]
+	5. [[Dense retrieval]]
+13. [[k-approximated Nearest Neighbors]]
+14. [[BERT in IR]]
 
-## Domande che non capisco
 In che denso dopo aver calcolato BM25 devo andare a vedere la relevance assessment.
 
 -> devo completare la lezione sulla compressione dei dati

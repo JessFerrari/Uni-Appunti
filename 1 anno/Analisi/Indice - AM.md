@@ -5,4 +5,7 @@
 
  
 1. [[Funzioni]]
-	1. 
+2. 
+3. [[Gradiente]]
+4. [[Derivate parziali]]
+5. 
