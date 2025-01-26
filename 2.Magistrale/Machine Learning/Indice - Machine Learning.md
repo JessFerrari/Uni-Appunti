@@ -1,15 +1,15 @@
 
   [[Machine learning]]
-	1. [[Machine Learning#Data|Data]]
-	2. [[Machine Learning#Task|Task]]
-	3. [[Machine Learning#Classification task|Classification]]
-	4. [[Machine Learning#Regression task|Regression]]
-	5. [[Machine Learning#Semi-supervised learning|Semi-supervised learning]]
-	6. [[Machine Learning#Reinforcement learning|Reinforcement learning]]
-	7. [[Machine Learning#Model|Model]]
-	8. [[Machine Learning#Learning Algorithm|Learning algorithm]]
+	1. [[Machine learning#Data|Data]]
+	2. [[Machine learning#Task|Task]]
+	3. [[Machine learning#Classification task|Classification]]
+	4. [[Machine learning#Regression task|Regression]]
+	5. [[Machine learning#Semi-supervised learning|Semi-supervised learning]]
+	6. [[Machine learning#Reinforcement learning|Reinforcement learning]]
+	7. [[Machine learning#Model|Model]]
+	8. [[Machine learning#Learning Algorithm|Learning algorithm]]
 	9. [[Inductive Bias]]
-	10. [[Machine Learning#Loss|Loss]]
+	10. [[Machine learning#Loss|Loss]]
 	11. [[Generalization]]
 	12. [[Generalization#Overfitting|Overfitting]]
 	13. [[Statistical Learning Theory - Vapnik]]
@@ -29,7 +29,7 @@
 			1. [[Perceptron convergence Theorem]]
 		2. [[Activation functions]]
 		3. [[Gradient descent algorithm]]
-		4. [[universal approximation]]
+		4. [[Universal approximation]]
 		5. [[Optimization Algorithms#Back Propagation|Back Propagation]]
 			1. [[Regularization]]
 			2. [[Optimization Algorithms#Momentum|Momentum]]
@@ -37,11 +37,16 @@
 	18. [[Bias-Variance]]
 	19. [[Ensemble]]
 
-## Esempi
 
+## TODO
 
-## Esercizi
+| appunti |         |     |     |     |     |     |
+| :------ | :------ | :-- | :-- | :-- | :-- | :-- |
+| 1 : ok  | 4 : ok  | 7   | 10  | 13  | 16  | 19  |
+| 2: ok   | 5 : LBE | 8   | 11  | 14  | 17  | 20  |
+| 3 : ok  | 6       | 9   | 12  | 15  | 18  | 21  |
 
-
-## Domande
-- fare meglio il bias : lezione 2 da 41 a 52
+#### Da sistemare
+- [ ] 4 : 32-38
+- [ ] 5 : 32-33
+- [ ] 5 : 47

@@ -19,7 +19,7 @@ Quindi se una relazione contiene $X$ allora posso accadere solo due cose
 
 
 ##### Forma normale Boyce-Codd
-_Sia_ $R\langle T,F\rangle$ uno [[Modello Relazionale|schema relazionale]] 
+_Sia_ $R\langle T,F\rangle$ uno [[Modello relazionale|schema relazionale]] 
 	$R$ è in _BCNF_ (Boyce-Codd normal form)
 	_se e solo se_ 
 	$\forall X\to Y \in F^+$  vale che $X$ è _[[Modello relazionale - chiave|superchiave]]_ con $X \to Y$ _dipendenza non banale_
@@ -32,14 +32,14 @@ Le dipendenze che non sodisfano questa proprietà sono dette _anomale_
 > nella pratica non si usa direttamente questa forma siccome calcolare $F^+$ è un operazione _molto costosa_.
 
 ##### Teorema
-_sia_ $R\langle T,F\rangle$ uno [[Modello Relazionale|schema relazionale]]
+_sia_ $R\langle T,F\rangle$ uno [[Modello relazionale|schema relazionale]]
 _se e solo se_ $\forall X\to Y \in F$  vale che $X$ è _[[Modello relazionale - chiave|superchiave]]_ 
 - con $X \to Y$ _dipendenza non banale_
 _allora_ $R$ è in _BCNF_ (Boyce-Codd normal form)
 
 ##### Corollario
 _sia_
-- $R\langle T,F\rangle$ uno [[Modello Relazionale|schema relazionale]]
+- $R\langle T,F\rangle$ uno [[Modello relazionale|schema relazionale]]
 - $F$ in forma di [[Copertura|copertura canonica]]
 _se e solo se_  $\forall X\to Y \in F$  vale che $X$ è _[[Modello relazionale - chiave|superchiave]]_ in questo caso anche _chiave_
 - con $X \to Y$ _dipendenza elementare_ e _non banale_
@@ -87,7 +87,7 @@ Contrariamente _preserva sempre i dati_ e questo viene dal _seguente teorema_:
 
 ##### Teorema
 _sia_
-- $R\langle T,F\rangle$ uno [[Modello Relazionale|schema relazionale]]
+- $R\langle T,F\rangle$ uno [[Modello relazionale|schema relazionale]]
 - $\rho= \{ R_1,\dots R_m \}$ una [[Decomposizione dei schemi|decomposizione]] di $R$ che _preserva i dati_
 - $\sigma=\{ S_1,S_2 \}$ una _decomposizione_ di $R_1$ che _preserva i dati_ rispetto a $\pi_{T_1}(F)$
 _allora_ anche la decomposizione $\rho = \{ S_1,S_2,R_2,\dots R_m \}$ preserva _i dati rispetto_ a $F$

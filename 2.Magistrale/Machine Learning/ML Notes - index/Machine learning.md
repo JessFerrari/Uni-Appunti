@@ -30,14 +30,14 @@ Machine learning could have different point of view:
 >   
 >   The most common specific framework:
 >   
->   Infer a model / function from a set of examples which allows the ***[[4 anno/Machine Learning/ML Notes - index/Machine learning#Generalization|Generalization]]*** (the capability to provide accurate response on new data)
+>   Infer a model / function from a set of examples which allows the ***[[Machine learning#Generalization|Generalization]]*** (the capability to provide accurate response on new data)
 
 It's used to solve real-world problem that are difficult to be treated with traditional techniques, for example when data are too difficult to be formalized hand-made, when there's not enough human knowledge or when it's required a personalized behaviour.
 
 
 Usually we have an input and a task to resolve, but data are noisy and ambiguous to formalize but easy to labeled.
 
-A ML system is able to fit to the known examples and is able to [[4 anno/Machine Learning/ML Notes - index/Machine learning#Generalization|generalize]] to new data with reasonable accuracy.
+A ML system is able to fit to the known examples and is able to [[Machine learning#Generalization|generalize]] to new data with reasonable accuracy.
 
 
 ![[Pasted image 20241223101953.png]]
@@ -66,7 +66,7 @@ The task could be:
 
 Task are of two categories : supervised and unsupervised.
 
-***Supervised learning***: The training examples are labeled data $<\mathbf{x},d>$ for an unknown function $f$. The problem is to find a good approximation of $f$, an *hypothesis* $h$, that can *[[4 anno/Machine Learning/ML Notes - index/Machine learning#Generalization|Generalize]]*.
+***Supervised learning***: The training examples are labeled data $<\mathbf{x},d>$ for an unknown function $f$. The problem is to find a good approximation of $f$, an *hypothesis* $h$, that can *[[Machine learning#Generalization|Generalize]]*.
 	![[Pasted image 20241223103738.png]] ^af8e9d
 - ***Unsupervised learning***: the training set is a set of unlabeled data $<\mathbf{x}>$ and the task consists in find natural grouping  in a set of data.
 	Examples are: clustering, dimensionality reduction, visualization, preprocessing and modeling the data density
@@ -103,7 +103,7 @@ The task aim is to estimate a real-value function on the basis of finite set of 
 Combines both label and unlabeled examples to generate an appropriate function or classifier
 
 ### Reinforcement learning
-It's about the adaptation in autonomous systems, in which the algorithm learns a policy of how to act given an observation of the world. Every action has some impact in the environment, and the environment provides feedback that guide the [[4 anno/Machine Learning/ML Notes - index/Machine learning#Learning Algoritm|learning algorithm]].
+It's about the adaptation in autonomous systems, in which the algorithm learns a policy of how to act given an observation of the world. Every action has some impact in the environment, and the environment provides feedback that guide the [[Machine learning#Learning Algoritm|learning algorithm]].
 That not include step by step examples and it's toward decision making aims.
 
 It's useful in modern AI.

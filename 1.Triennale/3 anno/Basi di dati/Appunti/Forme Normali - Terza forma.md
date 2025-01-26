@@ -21,7 +21,7 @@ Intuizione: Una relazione $r$ è in _terza forma normale_ (3NF) se, per ogni FD 
 
 ##### Terza forma normale (Definizione)
 _sia_
-- $R \langle T,F\rangle$ uno [[Modello Relazionale|schema relazionale]]
+- $R \langle T,F\rangle$ uno [[Modello relazionale|schema relazionale]]
 $R$ è in _terza forma normale_ (3NF) 
 	_se e solo se_ 
 $\forall X \to A \in F^+$ se $X$ è [[Modello relazionale - chiave|superchiave]] o se $A$ è attributo primo
@@ -59,7 +59,7 @@ La _[[Complessità|complessità]]_ del algoritmo dipende da quella del calcolo d
 
 
 ##### Teorema
-_Sia_ $R\langle T,F\rangle$ uno _[[Modello Relazionale|schema relazionale]]_
+_Sia_ $R\langle T,F\rangle$ uno _[[Modello relazionale|schema relazionale]]_
 _allora_ l'_algoritmo di sintesi_ produce una _decomposizione_ $\rho=\{ S_i \}_{i=1,\dots,n}$ che preserva [[Decomposizione dei schemi|dati e dipendenze]]
 
 ###### _Dimostrazione_

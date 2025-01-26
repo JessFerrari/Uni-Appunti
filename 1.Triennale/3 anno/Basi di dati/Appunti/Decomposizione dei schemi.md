@@ -6,7 +6,7 @@ tags:
 Creation: 2024-02-26
 ---
 # Decomposizione di schemi
-La _decomposizione_ degli [[Modello Relazionale|schemi relazionali]] è un operazione necessaria per la rimozione delle _anomalie_.
+La _decomposizione_ degli [[Modello relazionale|schemi relazionali]] è un operazione necessaria per la rimozione delle _anomalie_.
 Questo si fa _scomponendo_ schemi che si presentano con _relazioni grandi_ in _relazioni più piccole_ che sodisfano certe proprietà ovvero sono in _[[Forme normali|forme normali]]_.
 
 La decomposizione è un'operazione delicata in quanto potrebbe far perdere informazione.
@@ -21,7 +21,7 @@ Inoltre se le andassi a ricongiungere cin un join si andrebbero a creare delle t
 
 ## Decomposizione (Definizione)
 
-Dato uno [[Modello Relazionale|schema relazionale]] $R(T)$  
+Dato uno [[Modello relazionale|schema relazionale]] $R(T)$  
 	$\rho=\{ R_{1}(T_{1}),\dots R_{K}(T_{K}) \}$ è una _decomposizione_ di $R(T)$ $\iff$ _se_ $\bigcup_{i}T_{i} =T$ 
 
 >[!note]
@@ -134,7 +134,7 @@ $r$ _soddisfa ogni dipendenza_ $V \rightarrow Z \in F$ infatti
 - _se_ $V \not\subseteq W \implies e_1[V] \not=e_2[V]$ ed $r$ soddisfa ovviamente la dipendenza 
 - _se_ $V \subseteq W\implies(T_1 \cap T_2 )\rightarrow V$ e per _[[Schema relazionale - Assiomi di Armstrong|transitività]]_ vale $(T_1 \cap T_2 )\rightarrow Z$ quindi $Z \subseteq W$  e $e_1[Z]=e_2[Z]$ e quindi $r$ sodisfa la [[Dipendenze funzionali|dipendenza]]
 
-poiché $Y_1,Y_2$ non sono _vuoti_ $\pi_{T_1}(r)$ e $\pi_{T_2}(r)$ contengono due _ennuple_ e la loro [[Modello relazionale - Algebra Relazionale|giunzione naturale]] ne contiene $4$ che sono più di quelle di $r$ quindi $$\pi_{T_1}(r)\bowtie\pi_{T_2}(r)\not=r$$ _contradicendo l ipotesi_.
+poiché $Y_1,Y_2$ non sono _vuoti_ $\pi_{T_1}(r)$ e $\pi_{T_2}(r)$ contengono due _ennuple_ e la loro [[Modello relazionale - Algebra relazionale|giunzione naturale]] ne contiene $4$ che sono più di quelle di $r$ quindi $$\pi_{T_1}(r)\bowtie\pi_{T_2}(r)\not=r$$ _contradicendo l ipotesi_.
 
 >[!note]
 >questo risultato è stato _generalizzato_ con un numero $n$ di relazioni nella decomposizione anzi che solo 2
@@ -154,8 +154,8 @@ In questa decomposizione si perde il fatto che impiegati che partecipano ad un p
 
 
 ### Proiezione di un insieme di dipendenze (definizione)
-Dato lo  [[Modello Relazionale|schema relazionale]] $R \langle T,F\rangle$ e $T_i \subseteq T$ un sotto _insieme di attributi T_
-la decomposizione $\rho =\{R_1,...,R_n \}$ _preserva le dipendenze_ se e solo se l'unione delle dipendenze nella [[Modello relazionale - Algebra Relazionale|proiezione]] di $F$ su $T_i$, definita come $$\pi_{T_i}(F)=\{ X \rightarrow Y \in  F^+ \mid X,Y \subseteq T_i \}$$ è una copertura di F.
+Dato lo  [[Modello relazionale|schema relazionale]] $R \langle T,F\rangle$ e $T_i \subseteq T$ un sotto _insieme di attributi T_
+la decomposizione $\rho =\{R_1,...,R_n \}$ _preserva le dipendenze_ se e solo se l'unione delle dipendenze nella [[Modello relazionale - Algebra relazionale|proiezione]] di $F$ su $T_i$, definita come $$\pi_{T_i}(F)=\{ X \rightarrow Y \in  F^+ \mid X,Y \subseteq T_i \}$$ è una copertura di F.
 
 > [!NOTE] ### Proposizione
 > Dato lo schema $R<T,F>$, il problema di stabilire se la decomposizione $\rho = \{ R_1, ..., R_n \}$ preserva le dipendenze ha [[Complessità|complessità]] di tempo polinomiale
@@ -251,8 +251,8 @@ _allora_ $\rho$ preserva _anche i dati_
 ###### _Dimostrazione_
 si assume senza perdita di generalità che $T_1$ sia [[Modello relazionale - chiave#Superchiave|superchiave]] di $R$
 Dobbiamo dimostrare che per ogni istanza $r$ di $R$ valga $$\pi_{T_1}(r) \bowtie \dots \bowtie \pi_{T_n}(r) \subseteq r$$ sia $e \in  \pi_{T_1}(r) \bowtie \dots \bowtie \pi_{T_n}(r)$ 
-per _[[Modello relazionale - Algebra Relazionale|definizione di giunzione]]_ si ha che esistono $e_i \in \pi_{T_i}(r)$ tale che per $i$ in $i,\dots,n,e_i[T_i]=e[T_i]$
-per _[[Modello relazionale - Algebra Relazionale|definizione di proiezione]]_  esistono $e_i' \in r$ tale che per $i$ in $1,\dots,n,e'_i[T_i]=e_i[T_i]$ da cui $e'_i[T_i]=e[T_i]$
+per _[[Modello relazionale - Algebra relazionale|definizione di giunzione]]_ si ha che esistono $e_i \in \pi_{T_i}(r)$ tale che per $i$ in $i,\dots,n,e_i[T_i]=e[T_i]$
+per _[[Modello relazionale - Algebra relazionale|definizione di proiezione]]_  esistono $e_i' \in r$ tale che per $i$ in $1,\dots,n,e'_i[T_i]=e_i[T_i]$ da cui $e'_i[T_i]=e[T_i]$
 
 allora basta dimostrare che $e=e_1'$ siccome da questo segue la tesi poiché $e'_1 \in r$
 

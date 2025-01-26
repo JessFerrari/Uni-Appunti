@@ -37,7 +37,7 @@ Il  _processo di normalizzazione_ tiene conto solo dell'eliminazione delle _anom
 
 ##### Assunto della normalizzazione 
 La _Teoria della Normalizzazione_ assume l'esistenza di uno  _schema di relazione Universale del DB_, che assicura che _attributi_ con lo _stesso nome_ anche in _relazioni_ diverse abbiano lo stesso significato, ovvero condividono il dominio e il _fatto_ che stanno rappresentando .
-Questo permette di evitare di fare _ridenominazioni_ durante le operazioni di normalizzazione e permette di usare sempre il [[Modello relazionale - Algebra Relazionale|Join Naturale]]   
+Questo permette di evitare di fare _ridenominazioni_ durante le operazioni di normalizzazione e permette di usare sempre il [[Modello relazionale - Algebra relazionale|Join Naturale]]   
 
 ###### Schema di relazione universale (Definizione)
  uno _Schema di relazione universale_ $U$ di un _database Relazionale_ ha come attributi l'unione degli attributi di tutte le relazioni del _database_
@@ -64,7 +64,7 @@ Per evitare questi problemi si decompongono le relazioni in più relazioni diver
 
 La [[Decomposizione dei schemi|decomposizione]] è un processo delicato e va fatto con cura infatti si possono incappare nei problemi di PERDITA DI INFORMAZIONI e PERDITA DI DIPENDENZA FUNZIONALE
 
-- _Perdita di informazioni_: questo avviene quando il [[Modello relazionale - Algebra Relazionale|Join]] tre le due relazioni prodotto della decomposizione produce più ennuple della relazione originale, ovvero avviene quando viene scelta come chiave esterna per una delle due relazione un attributo che non rappresenta univocamente quel _[[Aspetto ontologico|entità]]_, ovvero che non è una [[Modello relazionale - chiave|chiave valida]] per quel entità 
+- _Perdita di informazioni_: questo avviene quando il [[Modello relazionale - Algebra relazionale|Join]] tre le due relazioni prodotto della decomposizione produce più ennuple della relazione originale, ovvero avviene quando viene scelta come chiave esterna per una delle due relazione un attributo che non rappresenta univocamente quel _[[Aspetto ontologico|entità]]_, ovvero che non è una [[Modello relazionale - chiave|chiave valida]] per quel entità 
 
 - _Perdita di dipendenze funzionali_: questo avviene quando una [[Dipendenze funzionali|dipendenza funzionale]] presente nella relazione originale non è più deducibile dalle due _relazioni_ di decomposizione. 
 
@@ -81,7 +81,7 @@ Per quanto possibile, si deve evitare di porre in relazione di base attributi i 
 Se è inevitabile, ci si assicuri che essi si presentino solo in casi eccezionali e che non riguardino una maggioranza di tuple nella relazione 
 
 4. __Tuple spurie__ 
-Si devono progettare schemi di relazione in modo tale che essi possano essere riuniti tramite [[Modello relazionale - Algebra Relazionale#Giunzione|JOIN]] con condizioni di uguaglianza su attributi che sono o chiavi primarie o chiavi esterne in modo da garantire che non vengano generate tuple spurie. 
+Si devono progettare schemi di relazione in modo tale che essi possano essere riuniti tramite [[Modello relazionale - Algebra relazionale#Giunzione|JOIN]] con condizioni di uguaglianza su attributi che sono o chiavi primarie o chiavi esterne in modo da garantire che non vengano generate tuple spurie. 
 Non si devono avere relazioni che contengono attributi di «accoppiamento» diversi dalle combinazioni chiave esterna-chiave primaria.
 
 ### Forme normali

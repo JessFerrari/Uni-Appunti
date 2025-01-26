@@ -11,14 +11,12 @@
             "id": "716ff7e6ca4d287d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "4 anno/Machine Learning/ML Notes - index/Regularization.md",
-                "mode": "source",
-                "source": false
+                "file": "2.Magistrale/Machine Learning/Pictures/Pasted image 20250109160508.png"
               },
-              "icon": "lucide-file",
-              "title": "Regularization"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250109160508"
             }
           }
         ],
@@ -79,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5,
-    "collapsed": true
+    "width": 346.5
   },
   "right": {
     "id": "4fd5ce29ea24c813",
@@ -96,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4 anno/Machine Learning/ML Notes - index/Regularization.md",
+                "file": "2.Magistrale/Machine Learning/Pictures/Pasted image 20250109160508.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +103,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Regularization"
+              "title": "Backlinks for Pasted image 20250109160508"
             }
           },
           {
@@ -199,54 +196,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "716ff7e6ca4d287d",
+  "active": "3aae195c6d55475b",
   "lastOpenFiles": [
-    "4 anno/Machine Learning/Linear Basis Expansion - LBE.md",
-    "4 anno/Machine Learning/Indice - Machine Learning.md",
-    "4 anno/Machine Learning/ML Notes - index/Machine learning.md",
-    "4 anno/Machine Learning/Curse of dimensionality.md",
-    "4 anno/Machine Learning/ML Notes - index/Linear models.md",
+    "2.Magistrale/Elective 3",
+    "2.Magistrale/5 anno/Untitled",
+    "2.Magistrale/Smart application",
+    "2.Magistrale",
+    "1.Triennale",
+    "2.Magistrale/Complementari magistrale",
+    "1.Triennale/Complementari triennale",
+    "2.Magistrale/Elective 2",
+    "2.Magistrale/Intelligent System for Patter Recognition",
+    "2.Magistrale/Parallel and Distributed System",
+    "2.Magistrale/Human Language Technologies",
+    "2.Magistrale/Machine Learning/Pictures/Pasted image 20250109154253.png",
+    "Pasted image 20250109103345.png",
+    "2.Magistrale/Machine Learning/ML Notes - index/Regularization.md",
+    "2.Magistrale/Machine Learning/Indice - Machine Learning.md",
+    "2.Magistrale/Machine Learning/Linear Basis Expansion - LBE.md",
+    "2.Magistrale/Machine Learning/ML Notes - index/Machine learning.md",
+    "2.Magistrale/Machine Learning/Curse of dimensionality.md",
+    "2.Magistrale/Machine Learning/ML Notes - index/Linear models.md",
     "4 anno/Machine Learning/Linear models - inductive bias.md",
     "Templates/Indice materia.md",
-    "4 anno/Machine Learning/Learning algorithms.md",
-    "4 anno/Machine Learning/ML Notes - index/Linear models - classification.md",
+    "2.Magistrale/Machine Learning/Learning algorithms.md",
+    "2.Magistrale/Machine Learning/ML Notes - index/Linear models - classification.md",
     "4 anno/Machine Learning/ML Notes - index/LTU.md",
     "4 anno/Machine Learning/ML Notes - index/LMS.md",
     "4 anno/Machine Learning/ML Notes - index/Version Space.md",
-    "3 anno/Introduzione all'intelligenza artificiale/Concept learning.md",
+    "1.Triennale/3 anno/Introduzione all'intelligenza artificiale/Concept learning.md",
     "4 anno/Machine Learning/ML Notes - index/Cross validation.md",
-    "4 anno/Machine Learning/Generalization.md",
-    "4 anno/Machine Learning/Inductive Bias.md",
-    "4 anno/Machine Learning/ML Notes - index/Regularization.md",
-    "4 anno/Machine Learning/Perceptron.md",
+    "2.Magistrale/Machine Learning/Generalization.md",
+    "2.Magistrale/Machine Learning/Inductive Bias.md",
+    "2.Magistrale/Machine Learning/Perceptron.md",
     "Others/Large Scale Machine Learning.md",
-    "4 anno/Machine Learning/ML Notes - index/Linear models - regression.md",
-    "4 anno/Machine Learning/Validation.md",
-    "4 anno/Machine Learning/K-fold - cross validation.md",
-    "4 anno/Machine Learning/Hold Out - cross validation.md",
-    "Pasted image 20250109160508.png",
-    "4 anno/Machine Learning/ML Notes - index/Statistical Learning Theory - Vapnik.md",
-    "Pasted image 20250109154253.png",
-    "Pasted image 20250109103345.png",
+    "2.Magistrale/Machine Learning/ML Notes - index/Linear models - regression.md",
+    "2.Magistrale/Machine Learning/Validation.md",
+    "2.Magistrale/Machine Learning/K-fold - cross validation.md",
+    "2.Magistrale/Machine Learning/Hold Out - cross validation.md",
+    "2.Magistrale/Machine Learning/Pictures/Pasted image 20250109160508.png",
+    "2.Magistrale/Machine Learning/ML Notes - index/Statistical Learning Theory - Vapnik.md",
     "empty files.md",
-    "broken links output.md",
-    "3 anno/Basi di dati/Immagini/10_associazioni.png",
-    "4 anno/Computational mathematics/Libri/Linear_and_Nonlinear_Programming.pdf",
-    "3 anno/Basi di dati/Immagini/Pasted image 20240224025812.png",
-    "3 anno/Basi di dati/Immagini/Pasted image 20240223052449.png",
-    "4 anno/Machine Learning/Notes",
-    "4 anno/Machine Learning/Pictures/Pasted image 20241223151122.png",
-    "4 anno/Machine Learning/Pictures/Pasted image 20241223101953.png",
-    "1 anno/Algebra Lineare/M_LIBRO_Martelli.pdf",
-    "Untitled",
-    "Learning",
-    "4 anno/Machine Learning/Pictures/Pasted image 20241223150534.png",
-    "4 anno/Machine Learning/Pictures/Pasted image 20241223150518.png",
-    "4 anno/Machine Learning/ML-24-first-lectures-1-INTRO-v0.1.pdf",
-    "4 anno/Machine Learning/ML-24-first-lectures-2-3-v0.1.pdf",
-    "3 anno/Introduzione all'intelligenza artificiale/Pictures",
-    "3 anno/Fisica",
-    "2 anno/Statistica/PDF da convertire/Prob. cond. 2.pdf",
+    "1.Triennale/3 anno/Basi di dati/Immagini/10_associazioni.png",
+    "1.Triennale/3 anno/Basi di dati/Immagini/Pasted image 20240224025812.png",
+    "1.Triennale/3 anno/Basi di dati/Immagini/Pasted image 20240223052449.png",
+    "2.Magistrale/Machine Learning/Pictures/Pasted image 20241223151122.png",
+    "2.Magistrale/Machine Learning/Pictures/Pasted image 20241223101953.png",
+    "2.Magistrale/Machine Learning/Pictures/Pasted image 20241223150534.png",
+    "2.Magistrale/Machine Learning/Pictures/Pasted image 20241223150518.png",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Pova dataviews/sono la cartella di prova/Untitled.canvas"

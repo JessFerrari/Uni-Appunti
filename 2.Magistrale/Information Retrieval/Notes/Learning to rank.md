@@ -14,7 +14,7 @@ Statistical retrieval separate the representation of queries, documents and repr
 To do thar we need a strutturate framework that links together all the parts.
 
 This framework comprises of two distinct algorithms:
-- [[Top-k retrieval]], which finds a subset of $k$ documents that are the the most relevant to a query
+- [[Top-k Retrieval]], which finds a subset of $k$ documents that are the the most relevant to a query
 - [[Ranking models]],which order the documents in the top-k set.
 
 In LtR the ranking phase uses an often expensive function that was trained using [[4 anno/Machine Learning/Machine Learning#^af8e9d|supervised learning]] or [[Online learning|online learning]] methods.

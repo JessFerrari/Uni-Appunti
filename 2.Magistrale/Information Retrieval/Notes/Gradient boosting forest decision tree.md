@@ -9,7 +9,7 @@ Creation: 2024-11-21
 ---
 ## Motivations
 ___
-With [[learning to rank]] it's possible to create a [[4 anno/Machine Learning/Machine Learning]] model which ranks documents using a [[Ranking models|ranking method]], i.e. [[BM25 (Best Matching 25)|BM25]], to sort them, trying to maximize a [[ranking metrics]], such as the [[NDCG]].
+With [[Learning to rank]] it's possible to create a [[4 anno/Machine Learning/Machine Learning]] model which ranks documents using a [[Ranking models|ranking method]], i.e. [[BM25 (Best Matching 25)|BM25]], to sort them, trying to maximize a [[Ranking metrics]], such as the [[NDCG]].
 
 Starting from a dataset, which is composed by queries, documents and features, te objective is **training** the model (off-line process) and **ranking** the documents (inference, online process).
 
@@ -29,7 +29,7 @@ The number of decision trees is thousand up to 20 thousands, and each tree is a 
 The number of features involved depends on the ask but usually is about 100 up to 2000.
 ![[Pasted image 20241121155135.png]]
 
-Here the [[decision trees]] are small trees in which each node has a threshold and a feature. A document is associated a score of a feature and from the root we arrive at leaves.
+Here the [[Decision trees]] are small trees in which each node has a threshold and a feature. A document is associated a score of a feature and from the root we arrive at leaves.
 Potentially every node have much than a feature, it depends on the training phase.
 ![[Pasted image 20241121162108.png]]
 We stop when we arrive at one leaf and we have a score for a document.
@@ -46,7 +46,7 @@ $F(x)=\sum_{i=0}^MF_{i(x)}$
 The **initial prediction** $F_{0}$ is the average of the target values because is the one that minimize the initial [[4 anno/Machine Learning/Machine Learning#Loss|MSE]]. We don't know anything about the data points.
 $$F_{0}(\mathbf{x}_{i})=\frac{1}{n}\sum_{i=1}^n y_{i}$$ Than we want the **pseudo residuals** for the others $m$ weak learners. (Recall: $m\in[1,M]$)
 
-The pseudo residuals for the [[Gradiente|gradient]] are the [[derivate parziali|partial derivatives]] of the loss function. The residual is the mistake made by the previous model on the $i$ data point
+The pseudo residuals for the [[Gradiente|gradient]] are the [[Derivate parziali|partial derivatives]] of the loss function. The residual is the mistake made by the previous model on the $i$ data point
 $$r_{i,m}=-\left[ \frac{\partial L(y,i,F(x_{i})) }{\partial F(x_{i})} \right]_{F(\mathbf{x})=F_{m-1}(\mathbf{x})} \ \ \ \ \ \ \text{for } i=1,\dots,n$$
 For the MSE the $r_{i,m}$ is compute as : $$r_{i,m}=y_{i}-F_{i}(x_{m})$$
 ![[Pasted image 20241121170302.png]]

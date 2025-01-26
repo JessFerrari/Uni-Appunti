@@ -19,7 +19,7 @@ La legge di probabilità è una probabilità su $\mathbb{R}$.
 
 ## Variabili aleatorie equidistribuite
 
-Due variabili aleatorie $\mathbf{X}$ e $\mathbf{Y}$ a valori reali si dicono *EQUIDISTRIBUITE* se hanno la stessa legge di [[probabilità]] , ossia che $P_{\mathbf{X}}=P_{\mathbf{Y}}$
+Due variabili aleatorie $\mathbf{X}$ e $\mathbf{Y}$ a valori reali si dicono *EQUIDISTRIBUITE* se hanno la stessa legge di [[Probabilità]] , ossia che $P_{\mathbf{X}}=P_{\mathbf{Y}}$
 
 ## Variabili aleatorie discrete
 
