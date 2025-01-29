@@ -33,5 +33,134 @@
       "value": "#00ffff"
     }
   ],
-  "fileColors": []
+  "fileColors": [
+    {
+      "path": "2.Magistrale/Machine Learning",
+      "color": "ERr0qQtBGmv4isgQrK0sX"
+    },
+    {
+      "path": "2.Magistrale/Intelligent System for Patter Recognition",
+      "color": "ERr0qQtBGmv4isgQrK0sX"
+    },
+    {
+      "path": "2.Magistrale/Information Retrieval",
+      "color": "ERr0qQtBGmv4isgQrK0sX"
+    },
+    {
+      "path": "2.Magistrale/Human Language Technologies",
+      "color": "ERr0qQtBGmv4isgQrK0sX"
+    },
+    {
+      "path": "2.Magistrale/Data Mining",
+      "color": "ERr0qQtBGmv4isgQrK0sX"
+    },
+    {
+      "path": "2.Magistrale/Computational mathematics",
+      "color": "ERr0qQtBGmv4isgQrK0sX"
+    },
+    {
+      "path": "2.Magistrale/Artficial Intelligence Fundamentals",
+      "color": "ERr0qQtBGmv4isgQrK0sX"
+    },
+    {
+      "path": "2.Magistrale/Algorithm engineering",
+      "color": "ERr0qQtBGmv4isgQrK0sX"
+    },
+    {
+      "path": "2.Magistrale/Parallel and Distributed System",
+      "color": "ERr0qQtBGmv4isgQrK0sX"
+    },
+    {
+      "path": "2.Magistrale/Smart application",
+      "color": "ERr0qQtBGmv4isgQrK0sX"
+    },
+    {
+      "path": "1.Triennale/Algebra Lineare",
+      "color": "1rGTaAvlgs04obRn6Wqj8"
+    },
+    {
+      "path": "1.Triennale/Analisi",
+      "color": "1rGTaAvlgs04obRn6Wqj8"
+    },
+    {
+      "path": "1.Triennale/Architetture e sistemi operativi",
+      "color": "1rGTaAvlgs04obRn6Wqj8"
+    },
+    {
+      "path": "1.Triennale/Basi di dati",
+      "color": "1rGTaAvlgs04obRn6Wqj8"
+    },
+    {
+      "path": "1.Triennale/Calcolo Numerico",
+      "color": "1rGTaAvlgs04obRn6Wqj8"
+    },
+    {
+      "path": "1.Triennale/Cloud Computer",
+      "color": "1rGTaAvlgs04obRn6Wqj8"
+    },
+    {
+      "path": "1.Triennale/Crittografia",
+      "color": "1rGTaAvlgs04obRn6Wqj8"
+    },
+    {
+      "path": "1.Triennale/Fisica",
+      "color": "rmKiygYHicdP8BF3UnlVS"
+    },
+    {
+      "path": "1.Triennale/Fondamenti di Informatica",
+      "color": "1rGTaAvlgs04obRn6Wqj8"
+    },
+    {
+      "path": "1.Triennale/Ingegneria del software",
+      "color": "1rGTaAvlgs04obRn6Wqj8"
+    },
+    {
+      "path": "1.Triennale/Interazione uomo macchina",
+      "color": "1rGTaAvlgs04obRn6Wqj8"
+    },
+    {
+      "path": "1.Triennale/Introduzione all'intelligenza artificiale",
+      "color": "1rGTaAvlgs04obRn6Wqj8"
+    },
+    {
+      "path": "1.Triennale/Laboratorio II",
+      "color": "1rGTaAvlgs04obRn6Wqj8"
+    },
+    {
+      "path": "1.Triennale/Laboratorio I",
+      "color": "1rGTaAvlgs04obRn6Wqj8"
+    },
+    {
+      "path": "1.Triennale/Paradigmi di programmazione",
+      "color": "1rGTaAvlgs04obRn6Wqj8"
+    },
+    {
+      "path": "1.Triennale/Laboratorio III",
+      "color": "1rGTaAvlgs04obRn6Wqj8"
+    },
+    {
+      "path": "1.Triennale/Programmazione e algoritmica",
+      "color": "1rGTaAvlgs04obRn6Wqj8"
+    },
+    {
+      "path": "1.Triennale/Statistica",
+      "color": "1rGTaAvlgs04obRn6Wqj8"
+    },
+    {
+      "path": "1.Triennale/Ricerca operativa",
+      "color": "1rGTaAvlgs04obRn6Wqj8"
+    },
+    {
+      "path": "1.Triennale/Reti",
+      "color": "1rGTaAvlgs04obRn6Wqj8"
+    },
+    {
+      "path": "1.Triennale/Samsung Innovation Campus",
+      "color": "1rGTaAvlgs04obRn6Wqj8"
+    },
+    {
+      "path": "1.Triennale/Indice - Triennale.md",
+      "color": "NixCwaeyk-RghfczvfQZE"
+    }
+  ]
 }

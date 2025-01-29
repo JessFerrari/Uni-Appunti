@@ -1,5 +1,5 @@
 ---
-Subject: "[[Indice - AIF|AIF]]"
+Subject: "[[Indice - Artificial Intelligence Fundamentals|AIF]]"
 Super Topic: "[[Agents]]"
 tags:
   - AIF

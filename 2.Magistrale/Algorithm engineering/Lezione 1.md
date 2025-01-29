@@ -1,5 +1,5 @@
 ---
-Subject: "[[Algorithm Engineering - indice]]"
+Subject: "[[Indice - Algorithm Engineering]]"
 tags:
   - AE
 Creation: 2024-09-17

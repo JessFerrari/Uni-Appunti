@@ -1,5 +1,5 @@
 ---
-Percorso: 
+Percorso: "[[Indice - Triennale|Triennale]]"
 tags:
   - "#indice"
 ---

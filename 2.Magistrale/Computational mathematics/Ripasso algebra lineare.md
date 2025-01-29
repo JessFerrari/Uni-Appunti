@@ -1,6 +1,6 @@
 ---
 Subject: "[[Indice - Computational Mathematics for learning and data analysis|CMLDA]]"
-Super Topic: "[[Indice - AL|AL]]"
+Super Topic: "[[Indice - Algebra Lineare|AL]]"
 tags:
   - CMDLA
   - AL

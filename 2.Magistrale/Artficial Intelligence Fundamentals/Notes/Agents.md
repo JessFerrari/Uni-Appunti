@@ -1,5 +1,5 @@
 ---
-Subject: "[[Indice - AIF|AIF]]"
+Subject: "[[Indice - Artificial Intelligence Fundamentals|AIF]]"
 tags:
   - AIF
 Creation: 2024-10-01

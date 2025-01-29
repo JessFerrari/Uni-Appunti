@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": "#00ffd5",
     "recentlyUsedIcons": [
+      "LiBadgeHelp",
       "LiTable",
       "LiSticker"
     ],
@@ -30,5 +31,8 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  }
+  },
+  "1.Triennale/Indice - Triennale.md": "LiBadgeHelp",
+  "Indice Università.md": "LiBadgeHelp",
+  "2.Magistrale/Indice - Magistrale AI.md": "LiBadgeHelp"
 }

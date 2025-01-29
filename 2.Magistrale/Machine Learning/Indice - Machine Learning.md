@@ -1,5 +1,15 @@
+---
+Percorso: "[[Indice - Magistrale AI|Magistrale AI]]"
+tags:
+  - "#indice"
+  - ML
+  - AI
+---
+# Titolo
 
-  [[Machine learning]]
+# Course MOC
+---
+[[Machine learning]]
 	1. [[Machine learning#Data|Data]]
 	2. [[Machine learning#Task|Task]]
 	3. [[Machine learning#Classification task|Classification]]
