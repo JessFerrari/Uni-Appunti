@@ -20,7 +20,7 @@ This framework comprises of two distinct algorithms:
 In LtR the ranking phase uses an often expensive function that was trained using [[4 anno/Machine Learning/Machine Learning#^af8e9d|supervised learning]] or [[Online learning|online learning]] methods.
 While, the retrieval algorithm solves a form of the [[Maximum inner product search problem|maximum inner product search problem]] (MIPS). 
 
-In dense retrieval, retrieval is often an approximate [[Nearest Neighbor]] search while ranking is the identity function or a complex learnt functions such as [[Decision forest]] or [[Deep learning]] methods.
+In dense retrieval, retrieval is often an approximate [[Nearest Neighbor]] search while ranking is the identity function or a complex learnt functions such as [[Decision forest]] or [[Deep Learning]] methods.
 
 ![[Pasted image 20241111120523.png]]
 

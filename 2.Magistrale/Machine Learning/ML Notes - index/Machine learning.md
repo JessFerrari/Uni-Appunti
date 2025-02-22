@@ -40,7 +40,7 @@ Usually we have an input and a task to resolve, but data are noisy and ambiguous
 A ML system is able to fit to the known examples and is able to [[Machine learning#Generalization|generalize]] to new data with reasonable accuracy.
 
 
-![[Pasted image 20241223101953.png]]
+![[ML system.png]]
 
 
 ## Data
@@ -67,10 +67,10 @@ The task could be:
 Task are of two categories : supervised and unsupervised.
 
 ***Supervised learning***: The training examples are labeled data $<\mathbf{x},d>$ for an unknown function $f$. The problem is to find a good approximation of $f$, an *hypothesis* $h$, that can *[[Machine learning#Generalization|Generalize]]*.
-	![[Pasted image 20241223103738.png]] ^af8e9d
+	![[ml task.png]] ^af8e9d
 - ***Unsupervised learning***: the training set is a set of unlabeled data $<\mathbf{x}>$ and the task consists in find natural grouping  in a set of data.
 	Examples are: clustering, dimensionality reduction, visualization, preprocessing and modeling the data density
-	![[Pasted image 20241223111343.png]]
+	![[clustering.png]]
 
 ### Classification task
 
@@ -126,15 +126,15 @@ Exist different types of models such as:
 - [[Probabilistic models]]
 - [[K nearest neighbor regression]]
 
-An other example of model are the [[Neural networks]], capable of approximating complex non-linear relationships between inputs and outputs.
+An other example of model are the [[Neural Networks]], capable of approximating complex non-linear relationships between inputs and outputs.
 
 
-## Learning Algoritm
+## Learning Algorithm
 
 The learning algorithm is based on *data*, **task** and **model**.
 
 The heuristic is search through the hypothesis space $H$ of the best hypothesis.8
-![[Pasted image 20241223130012.png]]
+![[hypothesis space.png]]
 
 
 ## Inductive Bias
@@ -196,8 +196,8 @@ We use a different loss function $L$ for different tasks.
 For the regression we use the loss function *Squared error*: $$L(h_{\mathbf{w}}(\mathbf{x}_{p}), d_{p})=(d_{p}-h_{\mathbf{w}}(\mathbf{x}_{p}))^2$$
 If we do the mean over the dataset than we obtain the ***MSE***.
 
-![[Pasted image 20241223150518.png]]
-![[Pasted image 20241223150534.png]]
+![[Regression task.png]]
+![[MSE.png]]
 
 
 ### Loss for Classification
@@ -263,3 +263,24 @@ Technique which are used to control overfitting are:
 ## [[Curse of dimensionality]]
 
 The number of input and output units depends by the dataset, the number of hidden layers and hidden units can bu adjust to generalize better.
+
+
+----
+# Formal settings
+---
+#### **Goal in Machine Learning**
+- Approximate an **unknown function** $f(\mathbf{x)}$:
+    - $f(\mathbf{x})$: The true function we aim to learn.
+    - $d$: The target value, which is derived as $d = f + \text{noise}$
+- **Objective**: Minimize the **risk function** $R$ over all data, which measures the true error : $R = \int L(d, h(x)) dP(x, d)$ 
+	- $L$ is the [[Machine learning#Loss|Loss function]]
+	- $P(x, d)$ is the **probability distribution** of data points $(x, d)$.
+	**True Error $R$** : Represents how well $h(\mathbf{x})$ (the model hypothesis) matches the true function $f(\mathbf{x})$ over all possible data.
+
+#### **Search for the Best Hypothesis**
+
+- **Goal**: Find $h \in H$ (a hypothesis in the hypothesis space) that minimizes $R$.
+
+- **Challenge**:
+    - The true risk $R$ depends on the **entire data distribution** $P(x, d)$ which is unknown
+    - We only have access to a **finite dataset** $TR = \{(x_p, d_p)\}_{p=1}^l$​ , where $l$ is the number of samples

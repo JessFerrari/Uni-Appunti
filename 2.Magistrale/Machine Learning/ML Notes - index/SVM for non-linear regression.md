@@ -1,8 +1,7 @@
 ---
 Subject: "[[Indice - Machine Learning|ML]]"
-Super Topic: "[[Validation]]"
+Super Topic: "[[SVM]]"
 tags:
   - ML
-  - dataset
-Creation: 2025-01-09
+Creation: 2025-02-14
 ---

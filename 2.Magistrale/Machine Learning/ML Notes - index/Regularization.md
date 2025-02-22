@@ -18,4 +18,4 @@ $$E(\mathbf{w})=\frac{1}{2}\sum_{n=1}^N\{y(x_{n},\mathbf{w})-t_{n}\}^2+\frac{\la
 
 Often the coefficient $w_{0}$ is omitted from the regularizer because its inclusion causes the result to depend on the original choice for the target variable.
 
-The quadratic case is known by the name of **ridge regression**, and in the [[Neural networks|neural networks]] context such as **weight decay**. 
+The quadratic case is known by the name of **ridge regression**, and in the [[Neural Networks|neural networks]] context such as **weight decay**. 
