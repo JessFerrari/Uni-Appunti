@@ -104,5 +104,3 @@ Per i dati linearmente separabili posso esserci molteplici soluzioni e l'approcc
 - Un approccio automatizzato della SRM che minimizza la VC-confidence come parte del processo di training. senza iperparametri nel caso di dati linearmente separabili
 - L'uso di un solver della classe dei problemi quadratici vincolati con una forma duale 
 - Una soluzione incentrata sui dati di training selezionati (i support vector)
-
-#  Soft margin 

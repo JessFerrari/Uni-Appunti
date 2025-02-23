@@ -90,7 +90,7 @@ Per ottenere i moltiplicatori di Lagrange $\{a_{i} \}_{i=1}^N$ si deve risolve i
 
 Dopo aver ricavato i moltiplicatori si passa alla ricerca dell'iperpiano ottimale.
 - $\mathbf{w}_{o}=\sum_{i=1}^N\alpha_{o,i}d_{i}\mathbf{x_{i}}$
-- $b_{o}=1-\mathbf{w}_{o}^T\mathbf{x}^{(s)} \to b_{o=1-\sum_{i=1}^N}\alpha_{o,i}d_{i}\mathbf{x}_{i}$
+- $b_{o}=1-\mathbf{w}_{o}^T\mathbf{x}^{(s)} \to b_{o}=1-\sum_{i=1}^N\alpha_{o,i}d_{i}\mathbf{x}_{i}$
 
 In realtà non serve calcolare il vettore $w_{o}$ in modo esplicito in quanto, solamente con i moltiplicatori Lagrangiani, ottenuti risolvendo il problema duale.
 
