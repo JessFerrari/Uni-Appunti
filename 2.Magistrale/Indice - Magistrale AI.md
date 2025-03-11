@@ -19,5 +19,5 @@ tags:
 	[[Indice - Smart application|Smart application]]
 
 Complementari
-	[[Indice - Information retrieval|Information retrieval]] 
+	[[Indice - Information Retrieval|Information retrieval]] 
 	[[Indice - Data Mining|Data Mining]]

@@ -5,10 +5,17 @@ tags:
 Creation: 2024-11-20
 Esercizi: "[[Esercizio Variabili Aleatorie]]"
 ---
-Una variabile aleatoria è uno strumento utile per studiare i modelli. é più semplice lavorarci perché, in quanto funzioni, hanno maggior libertà di calcolo.
+Una variabile aleatoria è uno strumento utile per studiare i modelli. 
+Risulta semplice lavorarci perché, in quanto funzioni, hanno ampia libertà di calcolo.
+
 
 ## Variabile aleatoria
-Una VARIABILE ALEATORIA è una funzione $X : (\Omega, \ Algebra, P) \to \mathbb{R} \text{ tale che }\forall \ A\subset \mathbb{R} \text{ misurabile vale che }X^{-1}(A)=\{\omega \in \Omega | X(\omega)\in A \} \in \text{Algebra}​$
+
+
+
+Una VARIABILE ALEATORIA è una funzione $$ X : (\Omega, \ Algebra, P) \to \mathbb{R} \text{ tale che }\forall \ A\subset \mathbb{R} $$misurabile vale che :
+$$X^{-1}(A)=\{\omega \in \Omega / X(\omega)\in A \} \in \text{Algebra}$$
+
 ### Legge di probabilità
 Data una variabile aleatoria $X:(\Omega, Algebra, P)\to \mathbb{R}$ si chiama *LEGGE DI PROBABILITÀ* di X la funzione : $P_x :\{\text{ insieme  misurabile di } \mathbb{R}\} \to [0, 1]\\text{ definita da } P_x(A)=P(X\in A)=P(X^{-1}(A))​$
 

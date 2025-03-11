@@ -35,43 +35,39 @@
   ],
   "fileColors": [
     {
-      "path": "2.Magistrale/Machine Learning",
+      "path": "2.Magistrale/ML - Machine Learning",
       "color": "ERr0qQtBGmv4isgQrK0sX"
     },
     {
-      "path": "2.Magistrale/Intelligent System for Patter Recognition",
+      "path": "2.Magistrale/ISPR - Intelligent System for Patter Recognition",
       "color": "ERr0qQtBGmv4isgQrK0sX"
     },
     {
-      "path": "2.Magistrale/Information Retrieval",
+      "path": "2.Magistrale/IR - Information Retrieval",
       "color": "ERr0qQtBGmv4isgQrK0sX"
     },
     {
-      "path": "2.Magistrale/Human Language Technologies",
+      "path": "2.Magistrale/HLT - Human Language Technologies",
       "color": "ERr0qQtBGmv4isgQrK0sX"
     },
     {
-      "path": "2.Magistrale/Data Mining",
+      "path": "2.Magistrale/DM - Data Mining",
       "color": "ERr0qQtBGmv4isgQrK0sX"
     },
     {
-      "path": "2.Magistrale/Computational mathematics",
+      "path": "2.Magistrale/CM - Computational Mathematics",
       "color": "ERr0qQtBGmv4isgQrK0sX"
     },
     {
-      "path": "2.Magistrale/Artficial Intelligence Fundamentals",
+      "path": "2.Magistrale/AIF - Artificial Intelligence Fundamentals",
       "color": "ERr0qQtBGmv4isgQrK0sX"
     },
     {
-      "path": "2.Magistrale/Algorithm engineering",
+      "path": "2.Magistrale/AE - Algorithm Engineering",
       "color": "ERr0qQtBGmv4isgQrK0sX"
     },
     {
-      "path": "2.Magistrale/Parallel and Distributed System",
-      "color": "ERr0qQtBGmv4isgQrK0sX"
-    },
-    {
-      "path": "2.Magistrale/Smart application",
+      "path": "2.Magistrale/SPM - Parallel and Distributed System Paradigms and Models",
       "color": "ERr0qQtBGmv4isgQrK0sX"
     },
     {
