@@ -28,7 +28,7 @@ But there's no a sigle classification because there are too many feature and is 
 It's an old Classification based on the number of *instruction* and *data stream*.
 
 1. SISD : Single Instruction Single Data. Not parallel but only sequential
-2. SIMD : Data parallelism because the parallelism depend by the granularity of the data. PEs works independently relays with how GPUs works  
+2. [[SIMD]] : Data parallelism because the parallelism depend by the granularity of the data. PEs works independently relays with how GPUs works  
 3. MISD :
 4. MIMD : 
 

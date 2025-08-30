@@ -5,6 +5,7 @@ tags:
   - AESO
 Creation: 2025-02-23
 ---
+# What's parallel computing?
 The *Parallel computing* is the practice of using multiple processors in parallel to solve problems more quickly than with a single processor.
 Deals with performance assuming the correctness of the code.
 
@@ -13,7 +14,7 @@ It implies the capability of :
 - understanding the costs, benefits and limitations of a chosen parallel approach. Some solutions could be better than others and it's important to know the limitations.
 
 
-## Parallel machines
+# Parallel machines
 
 Parallel machines could be :
 - a *computer clusters* made by multiple independent computers connected with one ore more high speed networks 
@@ -21,8 +22,9 @@ Parallel machines could be :
 - *CMP ( Chip Multi Processors, aka Multicore)*: multiple compute units called cores packed on a single chip.
 
 
-
-The Parallelism is used to reduce power consumption:
+# Why parallel computing
+---
+Historically, the main motivation was to improve performances but now it's fundamental because it's the only way to reduce *computational time* and to *reduce power consumption*:
 $$\text{Power}_{\text{dynamic}} \approx \frac{1}{2}CV^2F$$
 $$\text{Performances}=N\text{cores}\times F$$
 Where : $C$ = capacitance, $V$ = voltage, $F$ = clock frequency
@@ -47,8 +49,8 @@ A supercomputer is a highly advanced and powerful computing system designed to p
 ## Software challeging
 
 -> How we implement portability
-# Approaches to Parallel Programming
 
+# Approaches to Parallel Programming
 
 ## Unstructured
 Offer the maximum freedom.  It's a low level approach to parallelism where developers manually control threads synchronization and data communication.

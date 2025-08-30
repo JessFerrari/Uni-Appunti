@@ -24,7 +24,7 @@ Quando ottimizziamo $f(\mathbf{x})$ con vincoli, cerchiamo soluzioni che rispett
 
 Per combinare $f(\mathbf{x})$ e i vincoli in un unico problema, introduciamo una nuova funzione chiamata **funzione Lagrangiana**:
 
-$$\mathcal{L}(\mathbf{x}, \boldsymbol{\lambda}) = f(\mathbf{x}) + \sum_{i=1}^{m} \lambda_i g_i(\mathbf{x})$$
+$$\mathcal{L}(\mathbf{x}, \boldsymbol{\lambda}) = f(\mathbf{x}) - \sum_{i=1}^{m} \lambda_i g_i(\mathbf{x})$$
 
 dove:
 

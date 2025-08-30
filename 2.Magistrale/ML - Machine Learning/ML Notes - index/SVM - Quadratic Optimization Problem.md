@@ -38,7 +38,7 @@ Si costruisce quindi una funzione Lagrangiana corrispondente al problema primale
 $$J(\mathbf{w},b,\alpha)=\frac{1}{2}\mathbf{w}^T\mathbf{w}-\sum_{i=1}^N\alpha_{i}(d_{i}(\mathbf{w}^T\mathbf{x}_{i}+b)-1)$$
 
 > [!NOTE] Forma funzione di Lagrange:
-> $L(x, \alpha)=f(x)+\sum_{i=1}^m\alpha_{i}g_{i}(x)$
+> $L(x, \alpha)=f(x)-\sum_{i=1}^m\alpha_{i}g_{i}(x)$
 > 
 > dove $f(x)$ è la funzione da minimizzare, $g_{i}(x)$ sono i vincoli da rispettare e $\alpha_{i}\geq 0$ sono i moltiplicatori di Lagrange 
 

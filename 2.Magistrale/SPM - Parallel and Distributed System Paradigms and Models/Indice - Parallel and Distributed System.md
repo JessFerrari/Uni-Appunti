@@ -15,20 +15,24 @@ email: massimo.torquati@unipi.it with the subject: «SPM question time»
 	[[Parallel architectures]]
 	
 [[Performance Engineering of System Software]]
+	[[Technique to improve performances]]
 
 #### General Laws 
 #### Models of Computations 
 #### The Structured Parallel programming model
 
 ### Shared Memory Architectures 
-SIMD programming with Intrinsic 
-SIMT programming in CUDA 
-Concurrent Programming in C++, OpenMP and FastFlow 
-Introduction to Lock-free programming
-
+[[SIMD]]
+	[[Intrinsic AVX]]
+[[SIMT]]
+	[[CUDA]] 
+[[Concurrent Programming]] in C++
+	[[OpenMP]]
+	[[FastFlow]] 
+[[Lock-free programming]]
 
 ### Distributed Memory Architectures
-Interconnection Networks 
+[[Interconnection Networks]] 
 Communication overhead, and Overlapping 
 Synch/Asyn Communications and Collectives 
 Distributed Programming with MPI 
@@ -44,8 +48,15 @@ Imparare le metriche e i teoremi fondamentali e approfondire l'approccio di prog
 -> Linguaggio C++ per una macchina multicore e per clusters di multicore.
 -> Librerie: CUDA, OpenMP, FastFlow, MPI
 
-
-## Esercizi
+## Pre requisites
+---
+- Basic concept of [[Indice - Architetture e Sistemi Operativi|computer architecture]]
+- Knowledge of [[Indice - Architetture e Sistemi Operativi|operating systems]]
+- Basic concepts of [[Concorrenza|concurrent programming]]
+- Proficiency in C 
+## Assignment
+1. [[SPM - Assignment 1]]
+	1. [[📅 Piano di lavoro - Softmax Vectorization]]
 
 
 ## Domande

@@ -44,4 +44,4 @@ Thursday         14.15-16.00
 5. Advanced topics and applications
 	1. [[Reservoir computing]] 
 	2. [[Deep learning for graphs]]
-	3. [[Reinforcement learning]]
+	3. [[Reinforcement Learning]]

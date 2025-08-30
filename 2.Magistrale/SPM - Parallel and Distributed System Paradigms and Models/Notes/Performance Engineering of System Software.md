@@ -17,4 +17,4 @@ non ho capito la parte di tiling
 spawning pays an overhead, the granularity is too small
 
 
-### Vectorization
+# 
